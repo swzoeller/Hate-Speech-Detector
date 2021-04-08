@@ -1,1 +1,2 @@
 # Hate-Speech-Detector
+Objective:
