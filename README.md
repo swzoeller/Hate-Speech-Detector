@@ -1,2 +1,2 @@
-# Hate-Speech-Detector
-Objective:
+# Hate Speech Detector
+NLP Classification Project
